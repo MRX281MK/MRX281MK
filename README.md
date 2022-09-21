@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 <a href="https://api.daily.dev/get?r=Koleksibot"><img height="200" src="https://raw.githubusercontent.com/MRX281MK/MRX281MK.github.io/main/root.svg"></a>
 <p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/MRX281MK/MRX281MK.github.io/speed.svg"></a></p>
+<a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/MRX281MK/MRX281MK.github.io/main/speed.svg"></a></p>
 <p align='center'>
 <!--END_SECTION:waka-->
 <!--
