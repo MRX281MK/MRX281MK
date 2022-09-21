@@ -1,7 +1,4 @@
 <!---
-<details>
-<p align='center'><img src="https://www.seekpng.com/png/detail/347-3475105_ruby-quote-on-deviantart-those-whitish-dots-are.png" width="150" alt="RubyRose"/></p>
-</details>
 
 <details>
     <summary>Social Media Links<b></b></summary><br/>
