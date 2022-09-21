@@ -1,7 +1,8 @@
 <!---
-tahaluindo/tahaluindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+<p align='center'><img src="https://www.seekpng.com/png/detail/347-3475105_ruby-quote-on-deviantart-those-whitish-dots-are.png" width="150" alt="RubyRose"/></p>
+</details>
+
 <details>
     <summary>Social Media Links<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://www.seekpng.com/png/full/133-1334437_rwby-ruby-rose-rwby-ruby-rose-transparent.png" width="150" alt="Contact Me"/></a></p>
