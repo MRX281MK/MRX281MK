@@ -1,6 +1,5 @@
 <!---
-tahaluindo/tahaluindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 <header>
     <img scr="https://www.seekpng.com/png/full/133-1334460_rwby-ruby-rose-by-isaiahjordan-d68cb3f-rwby-ruby.png" width="150" />
