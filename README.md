@@ -1,14 +1,16 @@
 <!---
 
 --->
-<header>
-    <img scr="https://www.seekpng.com/png/full/133-1334460_rwby-ruby-rose-by-isaiahjordan-d68cb3f-rwby-ruby.png" width="150" />
-</header>
+
+<details>
+<p align='center'><a href="https://www.patreon.com/rudby281"><img scr="https://www.seekpng.com/png/full/980-9808803_ruby-rose-red-like-roses-white-roses-rwby.png" width="150" alt="MRX281MK"/></a></p>
+</details>
+
 <details>
     <summary>All Socmed Link<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://www.seekpng.com/png/full/133-1334437_rwby-ruby-rose-rwby-ruby-rose-transparent.png" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
-
 </details>
+
 <details>
     <summary><b>BLOG</b></summary><br/>
 <h1  align='center'> Ketikan Hati Kecil </h1>
