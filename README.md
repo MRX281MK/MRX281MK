@@ -3,6 +3,7 @@
 --->
 
 <details>
+    <summary>PATREON<b></b></summary><br/>
 <p align='center'><a href="https://www.patreon.com/rudby281"><img scr="https://www.seekpng.com/png/full/980-9808803_ruby-rose-red-like-roses-white-roses-rwby.png" width="150" alt="MRX281MK"/></a></p>
 </details>
 
